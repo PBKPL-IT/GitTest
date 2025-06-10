@@ -1,6 +1,6 @@
 def count_words(text):
     words = text.split()
-    return len(letters)
+    return len(words)
 
 def main():
     user_input = input("Enter a sentence: ")
